@@ -12,7 +12,7 @@ namespace cs_lesson6._3
             int sum = 0;
             foreach ()
 
-        }
+        } 
 
         static void Main(string[] args)
         {
