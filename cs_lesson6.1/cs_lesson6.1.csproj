@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1A576A49-F98D-449C-A843-04108C74C2EB}</ProjectGuid>
+    <ProjectGuid>{2C5CDEE3-852D-436C-8DF9-290958E256DC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>cs_lesson6</RootNamespace>
-    <AssemblyName>cs_lesson6</AssemblyName>
+    <RootNamespace>cs_lesson6._1</RootNamespace>
+    <AssemblyName>cs_lesson6.1</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
