@@ -23,7 +23,7 @@ namespace cs_lesson6._2
         static void Main(string[] args)
         {
             Console.WriteLine("Enter ten numbers:");
-            int maxVal = MaxValue();  //run function
+            int maxVal = MaxValue();  //run function MaxValue
             Console.WriteLine("The max value in my array is:{0}",maxVal);
             Console.ReadKey();
         }
