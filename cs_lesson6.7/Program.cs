@@ -34,7 +34,7 @@ namespace cs_lesson6._7
             if (input == "M")
                 process = new ProcessDelegate(Multiply);
             else
-                process = new ProcessDelegate(Divide);
+                process = new ProcessDelegate(Divide); 
             //print end
             Console.WriteLine($"Result: {process(param1,param2)}");
             Console.ReadKey();
